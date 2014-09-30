@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:latest
 MAINTAINER Michael Choi <mjchoi45@gmail.com>
 
 RUN apt-get update -q
